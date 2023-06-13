@@ -8,7 +8,7 @@ For each book, it's title, cover, rating, description are fetched together with 
 
 ## Pictures
 <div style="flex-direction:row;">
-  <img src="pics/home.png" height="512" width="300">
-  <img src="pics/bookslist.png" height="512" width="300">
-  <img src="pics/book.png" height="512" width="300">
+  <img src="pics/home.png" height="555" width="270">
+  <img src="pics/bookslist.png" height="555" width="270">
+  <img src="pics/book.png" height="555" width="270">
 </div>
